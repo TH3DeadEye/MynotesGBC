@@ -4,7 +4,7 @@
 - [AtKlass](https://app.atklass.com)
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 ---
-- [COMP1238 markdownfile] (https://github.com/TH3DeadEye/MynotesGBC/blob/main/comp1238.md)
+- [COMP1238 markdownfile](https://github.com/TH3DeadEye/MynotesGBC/blob/main/comp1238.md)
 ---
 ## My schedule:
 - Monday:
